@@ -1,8 +1,10 @@
 # 474-Hours-Japanese-Speech-Data-By-Mobile-Phone
-https://www.datatang.ai/datasets/947
+
 
 ## Description
 Recording devices are mainstream Android phones and iPhones.
+
+For more details, please refer to the link: https://bit.ly/3C777Qq
 
 ## Format
 16kHz, 16bit, uncompressed wav, mono channel.
@@ -24,3 +26,6 @@ Japanese
 
 ## Application scenarios
 speech recognition; voiceprint recognition.
+
+# Licensing Information
+Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
