@@ -4,7 +4,8 @@
 ## Description
 Recording devices are mainstream Android phones and iPhones.
 
-For more details, please refer to the link: https://bit.ly/3C777Qq
+For more details, please refer to the link: https://www.nexdata.ai/datasets/947?source=Github
+
 
 ## Format
 16kHz, 16bit, uncompressed wav, mono channel.
