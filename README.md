@@ -4,7 +4,7 @@
 ## Description
 Recording devices are mainstream Android phones and iPhones.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/947?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/speechrecog/947?source=Github
 
 
 ## Format
